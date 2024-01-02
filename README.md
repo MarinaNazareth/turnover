@@ -9,7 +9,7 @@ Com base nisso, o RH encomendou um estudo para o analista de dados da área para
 
 Quais políticas/fatores da empresa deveriam mudar de forma a minimizar o turnover?
 
-Baseado na análise podemos ver que o turnover da empresa é de 16.12%, considerando a matéria do G1 (https://g1.globo.com/pr/parana/especial-publicitario/pos-pucpr-digital/voce-no-futuro/noticia/2022/12/03/turnover-o-indice-de-rotatividade-que-vem-impactando-as-empresas.ghtml) temos que uma médiaadequada seria de 5 a 10% ao ano, e acima disso pode gerar prejuízos a ampresa.
+Baseado na análise podemos ver que o turnover da empresa é de 16.12%, considerando a matéria do G1 (https://g1.globo.com/pr/parana/especial-publicitario/pos-pucpr-digital/voce-no-futuro/noticia/2022/12/03/turnover-o-indice-de-rotatividade-que-vem-impactando-as-empresas.ghtml) temos que uma média adequada seria de 5 a 10% ao ano, e acima disso pode gerar prejuízos a ampresa.
 
 Considerando as variáveis categóricas vemos que o maior percentual de turnover está associado a um equílibrio entre vida pessoal e trabalho considerada ruim, com uma taxa de 31.25%, ou seja, quase 94% a mais do que o turnover geral da empresa. Portanto, deveriam ser priorizadas pelo RH medidas como implementar programas que promovam o equilíbrio entre vida pessoal e trabalho, como flexibilidade de horários, dias de trabalho remoto, ou iniciativas que incentivem o bem-estar dos funcionários;Políticas de Licença e Férias e  promover uma cultura de comunicação aberta, encorajando os funcionários a expressarem suas preocupações e sugestões. Isso pode incluir pesquisas de satisfação dos funcionários e sessões regulares de feedback.
 
